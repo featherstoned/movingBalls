@@ -1,7 +1,3 @@
-
-
-<script>
-
 var positionX = 0;
 var positionY = 0;
 var velocity = 100;
