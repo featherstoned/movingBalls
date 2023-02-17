@@ -1,6 +1,7 @@
 var positionX = 0;
 var positionY = 0;
 var velocity = 100;
+var reverse = false;
 var ball = document.getElementById('ball');
 ball.style.left = positionX + 'px';
 // two x-axis coordinates
